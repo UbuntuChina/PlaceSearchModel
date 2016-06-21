@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=PlaceSearchModel
+Exec=qmlscene %U PlaceSearchModel/Main.qml
+Icon=PlaceSearchModel/PlaceSearchModel.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
